@@ -1,0 +1,10 @@
+{
+  "name": "test-playground",
+  "version": "0.1.0",
+  "description": "AskUserQuestion multi-step pattern testing playground",
+  "author": {
+    "name": "fivetaku",
+    "url": "https://github.com/fivetaku"
+  },
+  "license": "MIT"
+}
